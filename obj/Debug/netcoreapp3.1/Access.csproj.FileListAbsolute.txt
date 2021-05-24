@@ -1,0 +1,13 @@
+C:\Users\Ifedayo\Documents\week7\Access\bin\Debug\netcoreapp3.1\Access.exe
+C:\Users\Ifedayo\Documents\week7\Access\bin\Debug\netcoreapp3.1\Access.deps.json
+C:\Users\Ifedayo\Documents\week7\Access\bin\Debug\netcoreapp3.1\Access.runtimeconfig.json
+C:\Users\Ifedayo\Documents\week7\Access\bin\Debug\netcoreapp3.1\Access.runtimeconfig.dev.json
+C:\Users\Ifedayo\Documents\week7\Access\bin\Debug\netcoreapp3.1\Access.dll
+C:\Users\Ifedayo\Documents\week7\Access\bin\Debug\netcoreapp3.1\Access.pdb
+C:\Users\Ifedayo\Documents\week7\Access\obj\Debug\netcoreapp3.1\Access.csprojAssemblyReference.cache
+C:\Users\Ifedayo\Documents\week7\Access\obj\Debug\netcoreapp3.1\Access.AssemblyInfoInputs.cache
+C:\Users\Ifedayo\Documents\week7\Access\obj\Debug\netcoreapp3.1\Access.AssemblyInfo.cs
+C:\Users\Ifedayo\Documents\week7\Access\obj\Debug\netcoreapp3.1\Access.csproj.CoreCompileInputs.cache
+C:\Users\Ifedayo\Documents\week7\Access\obj\Debug\netcoreapp3.1\Access.dll
+C:\Users\Ifedayo\Documents\week7\Access\obj\Debug\netcoreapp3.1\Access.pdb
+C:\Users\Ifedayo\Documents\week7\Access\obj\Debug\netcoreapp3.1\Access.genruntimeconfig.cache
